@@ -14,3 +14,5 @@ hi, im George 🔮.
 ------
 [codegaws](https://github.com/codegaws)
 Last Edited on: 01/01/2025
+<br><br>
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=codegaws&show_icons=true)](https://github.com/codegaws)
