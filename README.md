@@ -1,5 +1,5 @@
 ![Mi Banner](https://raw.githubusercontent.com/codegaws/banner/main/banner.jpg)
-<br><br>
+<br><br><br><br>
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
